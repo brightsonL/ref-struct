@@ -9,7 +9,7 @@
     "c++",
     "ffi"
   ],
-  "version": "2.0.0",
+  "version": "3.0.0",
   "author": "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)",
   "repository": {
     "type": "git",
@@ -22,12 +22,12 @@
   },
   "dependencies": {
     "debug": "4",
-    "ref": "lxe/ref#node-12"
+    "ref": "brightsonL/ref#node-12.8.1"
   },
   "devDependencies": {
     "bindings": "~1.5.0",
     "nan": "2",
     "mocha": "*",
-    "ref-array": "lxe/ref-array#node-12"
+    "ref-array": "brightsonL/ref-array#node-12.8.1"
   }
 }
